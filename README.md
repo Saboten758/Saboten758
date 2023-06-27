@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
   Visitors <br>
   <img src="https://profile-counter.glitch.me/Saboten758/count.svg" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saboten758)](https://git.io/streak-stats)
