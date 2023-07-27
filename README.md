@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Saboten
 <img src="https://giffiles.alphacoders.com/362/36249.gif">
-- 👀 I’m interested in:<br>
+- 👀 I’m interested in:
+<br>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - 🌱 I’m currently learning:
