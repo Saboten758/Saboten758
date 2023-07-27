@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Saboten758)](https://git.io/streak-stats)
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Saboten758">
