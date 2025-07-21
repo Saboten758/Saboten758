@@ -17,8 +17,6 @@
 <br>
 
 
-
-
 - 📫 Contact me through my gmail debjitdaw03@gmail.com
 ---
 <p align="left"> 
@@ -45,15 +43,13 @@ Stats:
 </details>
 
 
-
-
 ## 🎮 **Game Development**
 
 <div align="center">
 
 ### 🕹️ **itch.io  Profile**
 
-I'm also exploring the indie game development scene on **itch.io**! As a Unity enthusiast, I just make games as a hobby :)
+I'm also exploring the indie game development scene on **itch.io**! I just like making games as a hobby :)
 
 *Check out my profile at itch.io*
 
@@ -68,7 +64,6 @@ I'm also exploring the indie game development scene on **itch.io**! As a Unity e
 ## 💭 **Daily Inspiration**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <div align="center">
 
 *"Take your time, but make it count."*
